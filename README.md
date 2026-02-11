@@ -39,7 +39,7 @@ Every finding has a severity, confidence level, and a concrete code change.
 
 <div align="center">
 <br>
-<img src="demo.svg" alt="Code Reviewer Agent demo — review output in terminal" width="800">
+<img src="assets/demo.svg" alt="Code Reviewer Agent demo — review output in terminal" width="800">
 <br>
 <sub>What a review looks like — real findings, real fixes, no fluff</sub>
 <br><br>
@@ -322,6 +322,8 @@ Built on practices from established industry sources:
 
 ```
 code-review-agent/
+├── assets/
+│   └── demo.svg        # animated terminal demo
 ├── code-reviewer.md    # the agent (copy to .claude/agents/)
 ├── README.md
 └── LICENSE
