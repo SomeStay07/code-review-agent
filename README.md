@@ -340,6 +340,10 @@ model: sonnet
 ## Sources
 ```
 
+## See Also
+
+**[Claude Memory Skill](https://github.com/SomeStay07/claude-memory-skill)** — persistent project memory for Claude Code. Remembers your decisions, catches contradictions, cleans up stale context. Pairs well with this reviewer: the memory skill stores project conventions, and the reviewer enforces them.
+
 ## License
 
 [MIT](LICENSE) — use it, modify it, ship it.
